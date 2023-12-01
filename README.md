@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Orly</h1>
+<h2 align="center">Hey there 👋, I'm Orly</h2>
 
 ###
 
@@ -36,6 +36,10 @@
 ###
 
 <h6 align="left">A motivated Python Developer who enjoys building web applications with Vue 3 and exploring the realm of Django.</h6>
+
+###
+
+<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django and RESTful API<br><br>📫 How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol.</h6>
 
 ###
 
