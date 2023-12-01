@@ -1,6 +1,16 @@
 <div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ooplaza.ooplaza&right_color=deeppink"  />
+</div>
+
+###
+
+<h2 align="center">Hey there 👋, I'm Orly</h2>
 
 ###
 
@@ -21,27 +31,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ooplaza.ooplaza&right_color=deeppink"  />
-</div>
-
-###
-
-<h2 align="center">Hey there 👋, I'm Orly</h2>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h6 align="left">A motivated Python Developer who enjoys building web applications with Vue 3 and exploring the realm of Django.</h6>
+<h6 align="center">A motivated Python Developer who enjoys building web applications with Vue 3 and exploring the realm of Django.</h6>
 
 ###
 
-<br clear="both">
-
-<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django and RESTful API<br><br>📫 How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol.</h6>
+<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django, and RESTful API<br><br>✉️ How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol</h6>
 
 ###
 
