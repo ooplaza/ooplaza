@@ -39,7 +39,7 @@
 
 ###
 
-<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django, and RESTful API<br><br>✉️ How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol</h6>
+<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django and RESTful API<br><br>✉️ How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol</h6>
 
 ###
 
@@ -52,6 +52,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="12" />
+  <img src="https://api.iconify.design/devicon/djangorest-wordmark.svg" height="35" alt="RESTful API"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="35" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
