@@ -67,6 +67,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/next.js" height="35" alt="next logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="35" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
