@@ -39,7 +39,7 @@
 
 ###
 
-<h6 align="left">🌱 I’m currently learning Vuejs 3 and Nuxt 3<br><br>👨‍💻 All of my projects are available at https://aboutorly.vercel.app/<br><br>📝 I regularly write articles on https://aboutorly.vercel.app/blogs<br><br>💬 Ask me about Python, Django and RESTful API<br><br>✉️ How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol</h6>
+<h6 align="left">🌱 I’m currently learning React and Next.JS<br><br>👨‍💻 All of my projects are available at https://aboutorly-v2.vercel.app/<br><br>💬 Ask me about Python, Django and RESTful API<br><br>✉️ How to reach me plaza.orly.omeles@gmail.com<br><br>⚡ Fun fact I think I am funny lol</h6>
 
 ###
 
